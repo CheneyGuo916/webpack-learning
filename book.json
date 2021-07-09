@@ -27,14 +27,14 @@
       "github-buttons": {
         "buttons": [
           {
-            "user": "LiangJunrong",
-            "repo": "document-library", 
+            "user": "CheneyGuo916",
+            "repo": "webpack-learning", 
             "type": "star",
             "count": true,
             "size": "small"
           }, 
           {
-            "user": "LiangJunrong",
+            "user": "CheneyGuo916",
             "width": "160", 
             "type": "follow", 
             "count": true,
